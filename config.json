@@ -1,0 +1,21 @@
+{
+	"license": "xxxx-xxxx-xxxx-xxxx-xxxx",
+	"runUserParallel": 5,
+	"runUserMin": 1,
+	"watchVdoSec": 30,
+	"closeWhenSuccess": false,
+	"proxy": "",
+
+	"users": [
+		{
+			"idOrUsernameOrEmail": "user",
+			"password": "pass",
+			"id2FA": "",
+			"profileName": "T1",
+			"userAgent": "",
+			"signIn": false,
+			"playFeedAndWatch": false,
+			"closeWhenSuccess": false,
+		},
+	]
+}
