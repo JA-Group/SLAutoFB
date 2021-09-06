@@ -1,3 +1,3 @@
 @echo off
-cd slautofb
-SLAutoFB.exe
+slcontrol\slControl.exe
+slautofb\SLAutoFB.exe
